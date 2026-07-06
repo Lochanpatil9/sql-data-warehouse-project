@@ -33,6 +33,9 @@ This project involves:
 - Data Analytics  
 
 ---
+## Data Flow
+![Data Flow](doc/dataflow.png)
+![Layers](layers.png)
 
 ## 🛠️ Important Links & Tools:
 
